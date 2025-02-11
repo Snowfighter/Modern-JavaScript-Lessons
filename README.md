@@ -9,3 +9,7 @@ Interesting that *type* and *language* attributes were used in **script** tag.
 ### Code Structure
 
 Need to read on `use strict` functionality
+
+### Variables
+
+Interesting, **bun** by default uses `use strinct` 
